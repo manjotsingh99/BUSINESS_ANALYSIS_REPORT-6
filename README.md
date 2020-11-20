@@ -1,5 +1,6 @@
 # OPEN THE IPYNB FILE TO CHECK THE DETAILED REPORT
 # BUSINESS_ANALYSIS_REPORT-6
+# Sales of summer clothes in E-commerce Wish
 This dataset contains product listings as well as products ratings and sales performance, which you would not find in other datasets.
 With this, you can finally start to look for correlations and patterns regarding the success of a product and the various components.
 * How about trying to validate the established idea of human sensitiveness to price drops ? (discounted price compared to original retail_price)**
